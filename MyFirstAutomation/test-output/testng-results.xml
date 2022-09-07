@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-22T03:45:02Z" name="Default suite" finished-at="2022-01-22T03:45:23Z" duration-ms="20246">
+    <groups>
+    </groups>
+    <test started-at="2022-01-22T03:45:02Z" name="Default test" finished-at="2022-01-22T03:45:23Z" duration-ms="20246">
+      <class name="com.jqueryui.test.TestingJquery">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.jqueryui.test.TestingJquery@cb0755b]" started-at="2022-01-21T22:45:02Z" name="setUp" finished-at="2022-01-21T22:45:10Z" duration-ms="7324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="JqueryhomePageTest()[pri:0, instance:com.jqueryui.test.TestingJquery@cb0755b]" started-at="2022-01-21T22:45:10Z" name="JqueryhomePageTest" finished-at="2022-01-21T22:45:11Z" duration-ms="1519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JqueryhomePageTest -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.jqueryui.test.TestingJquery@cb0755b]" started-at="2022-01-21T22:45:11Z" name="cleanUp" finished-at="2022-01-21T22:45:11Z" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.jqueryui.test.TestingJquery@cb0755b]" started-at="2022-01-21T22:45:11Z" name="setUp" finished-at="2022-01-21T22:45:19Z" duration-ms="7557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickDroppable()[pri:0, instance:com.jqueryui.test.TestingJquery@cb0755b]" started-at="2022-01-21T22:45:19Z" name="clickDroppable" finished-at="2022-01-21T22:45:22Z" duration-ms="3422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickDroppable -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.jqueryui.test.TestingJquery@cb0755b]" started-at="2022-01-21T22:45:22Z" name="cleanUp" finished-at="2022-01-21T22:45:23Z" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.jqueryui.test.TestingJquery -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
