@@ -23,7 +23,7 @@ public class TestingJquery {
 		try {
 			System.setProperty("webdriver.chrome.driver", "C:\\Users\\parid\\Week1\\MyFirstAutomation\\src\\test\\resources\\drivers\\chromedriver.exe");
 			driver = new ChromeDriver();
-			Thread.sleep(5 * 1000);
+			Thread.sleep( 3* 1000);
 			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
 			driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(15));
 			driver.manage().timeouts().scriptTimeout(Duration.ofSeconds(60));
